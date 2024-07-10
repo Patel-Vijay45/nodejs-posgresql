@@ -8,7 +8,8 @@ const config = {
     user: env.POSTGRES_USER,
     password: env.POSTGRES_PASSWORD,
     database: env.POSTGRES_DATABASE,
-    ssl:env.POSTGRES_URL_NO_SSL
+    ssl:env.POSTGRES_URL_NO_SSL,
+    url:env.POSTGRES_URL
   },
   listPerPage: env.LIST_PER_PAGE || 10,
 };
