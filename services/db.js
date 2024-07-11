@@ -1,8 +1,7 @@
 const { Pool } = require("pg");
 const config = require("../config");
 const pool = new Pool({
-  connectionString:
-    "postgres://default:TFtbpzsSH0C9@ep-nameless-frog-a4uj3j7m.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require",
+  connectionString: env.POSTGRES_PSQL,
 });
 
 /**
