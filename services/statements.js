@@ -3,11 +3,11 @@ const helper = require("../helper");
 const config = require("../config");
 async function getStatement(id = null) {
   let rows;
-  if (data) {
+  if (id) {
     rows = await db.query("SELECT * FROM bankstatements where $id", [id]);
   } else {
     rows = await db.query("SELECT * FROM bankstatements");
-  }``
+  }
 
   const data = helper.emptyOrRows(rows);
   return {
