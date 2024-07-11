@@ -3,7 +3,7 @@ const router = express.Router();
 const statements = require("../services/statements");
 
 /* get statement */
-router.get("statements", async function (req, res, nect) {
+router.get("/", async function (req, res, nect) {
   try {
     res.json(await statements.getstatements(req.query.page));
   } catch (err) {
@@ -13,7 +13,7 @@ router.get("statements", async function (req, res, nect) {
 });
 
 /* POST statements */
-router.post("statements", async function (req, res, next) {
+router.post("/", async function (req, res, next) {
   try {
     res.json(await statements.create(req.body));
   } catch (err) {

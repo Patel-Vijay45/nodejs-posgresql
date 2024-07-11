@@ -1,6 +1,6 @@
-const { db } = require("../config");
-
-const helper = require("../helper");
+const db = require('./db');
+const helper = require('../helper');
+const config = require('../config');
 async function getBanks(id = null) {
   if (id) {
     const rows = await db.query("SELECT * from banks where id=$id", [id]);

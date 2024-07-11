@@ -3,7 +3,7 @@ const router = express.Router();
 const banks = require("../services/banks");
 
 /* get bank */
-router.get("/banks", async function (req, res, nect) {
+router.get("/", async function (req, res, nect) {
   try {
     res.json(await banks.getBanks(req.query.page));
   } catch (err) {
@@ -14,7 +14,7 @@ router.get("/banks", async function (req, res, nect) {
 
 
 /* POST banks */
-router.post('/banks', async function(req, res, next) {
+router.post('/', async function(req, res, next) {
     try {
       res.json(await banks.create(req.body));
     } catch (err) {
