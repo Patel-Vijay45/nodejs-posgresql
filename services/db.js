@@ -1,7 +1,7 @@
 const { Pool } = require("pg");
 const config = require("../config");
 const pool = new Pool({
-  connectionString: env.POSTGRES_PSQL,
+  connectionString: process.env.POSTGRES_PSQL,
 });
 
 /**
