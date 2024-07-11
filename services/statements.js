@@ -1,12 +1,13 @@
-const db = require('./db');
-const helper = require('../helper');
-const config = require('../config');
+const db = require("./db");
+const helper = require("../helper");
+const config = require("../config");
 async function getStatement(id = null) {
+  let rows;
   if (data) {
-    const rows = await db.query("SELECT * FROM bankstatements where $id", [id]);
+    rows = await db.query("SELECT * FROM bankstatements where $id", [id]);
   } else {
-    const rows = await db.query("SELECT * FROM bankstatements");
-  }
+    rows = await db.query("SELECT * FROM bankstatements");
+  }``
 
   const data = helper.emptyOrRows(rows);
   return {
@@ -48,22 +49,27 @@ function validateCreate(data) {
 }
 async function create(data) {
   validateCreate(data);
-  const result=await db.query(
-    'INSERT INTO bankstatements(transaction_date,particulars,amount,transaction_type,bank_id,balance) VALUES ($1,$2,$3,$4,$5,$6) RETURNING *'
-    [data.transaction_date,data.particulars,data.amount,data.transaction_type,data.bank_id,data.balance]
-  )
+  const result = await db.query(
+    "INSERT INTO bankstatements(transaction_date,particulars,amount,transaction_type,bank_id,balance) VALUES ($1,$2,$3,$4,$5,$6) RETURNING *"[
+      (data.transaction_date,
+      data.particulars,
+      data.amount,
+      data.transaction_type,
+      data.bank_id,
+      data.balance)
+    ]
+  );
 
-  let message='Error in Creating Statement';
+  let message = "Error in Creating Statement";
 
-  if(result.length){
-    message='Statement Created Successfully';
+  if (result.length) {
+    message = "Statement Created Successfully";
   }
 
-  return {message}
+  return { message };
 }
 
-
-module.exports={
-    getStatement,
-    create
-}
+module.exports = {
+  getStatement,
+  create,
+};

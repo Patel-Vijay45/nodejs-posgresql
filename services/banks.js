@@ -1,11 +1,12 @@
-const db = require('./db');
-const helper = require('../helper');
-const config = require('../config');
+const db = require("./db");
+const helper = require("../helper");
+const config = require("../config");
 async function getBanks(id = null) {
+  let rows;
   if (id) {
-    const rows = await db.query("SELECT * from banks where id=$id", [id]);
+    rows = await db.query("SELECT * from banks where id=$id", [id]);
   } else {
-    const rows = await db.query("SELECT * from banks");
+    rows = await db.query("SELECT * from banks");
   }
   const data = helper.emptyOrRows(rows);
   return {

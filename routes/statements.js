@@ -5,7 +5,7 @@ const statements = require("../services/statements");
 /* get statement */
 router.get("/", async function (req, res, nect) {
   try {
-    res.json(await statements.getstatements(req.query.page));
+    res.json(await statements.getStatement(req.query.page));
   } catch (err) {
     console.error(`Error while getting statements `, err.message);
     res.status(err.statusCode || 500).json({ message: err.message });
