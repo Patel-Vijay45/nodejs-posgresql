@@ -16,7 +16,7 @@ async function getStatement(id = null) {
 }
 
 function validateCreate(data) {
-  let messages = {};
+  let messages = [];
   if (!data) {
     messages.push("No object is provided");
   }
