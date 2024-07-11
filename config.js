@@ -7,8 +7,7 @@ const config = {
     port: env.DB_PORT || "5432",
     user: env.POSTGRES_USER,
     password: env.POSTGRES_PASSWORD,
-    database: env.POSTGRES_DATABASE,
-    ssl:env.POSTGRES_URL_NO_SSL
+    database: env.POSTGRES_DATABASE
   },
   listPerPage: env.LIST_PER_PAGE || 10,
 };
