@@ -82,9 +82,12 @@ async function checkBank(data) {
     WHERE  account_no = $3
   `;
   const values = [name, customerID, ifscCode, mobileNo];
-  return values;
+  // return values;
   try {
-    const { rows } = await db.query(query, values);
+    const rows = await db.query(
+      "SELECT id FROM bank WHERE  account_no = $ifscCode",
+      [ifscCode]
+    );
     return rows;
     if (rows.length > 0) {
       // Entry exists, return its ID
