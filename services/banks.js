@@ -77,7 +77,7 @@ async function checkBank(data) {
   // Check if the entry exists in the database
   const query = `
     SELECT id FROM bank
-    WHERE name = $1 AND customer_id = $2 AND ifsc_code = $3 AND registered_mobile_no = $4
+    WHERE  account_no = $3
   `;
   const values = [name, customerID, ifscCode, mobileNo];
   try {
@@ -89,15 +89,18 @@ async function checkBank(data) {
     } else {
       // Entry doesn't exist, insert it and return the new ID
       const insertQuery = `
-        INSERT INTO bank (name, customer_id, ifsc_code, registered_mobile_no)
-        VALUES ($1, $2, $3, $4)
+        INSERT INTO bank (holder_name, customer_id, account_no, mobile,bank_name)
+        VALUES ($1, $2, $3, $4,'axis')
         RETURNING id
       `;
       const insertResult = await pool.query(insertQuery, values);
       return insertResult.rows[0].id;
     }
   } catch (err) {
-    console.error("Error executing query:", err.message);
+    return res
+      .status(500)
+      .json({ message: "Error executing query " + err.message });
+    // console.error("Error executing query:", err.message);
     throw err;
   }
 }

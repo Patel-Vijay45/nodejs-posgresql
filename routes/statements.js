@@ -47,6 +47,8 @@ router.post("/upload", async function (req, res, next) {
           const rowData = {};
           row.eachCell((cell, colNumber) => {
             const data = cell.value?.toString().trim() || "";
+
+            // const data = cell?.value?.toString().replace(/\s+/g, "") || "";
             const columnName = String.fromCharCode(64 + colNumber);
 
             if (rowNumber <= 17) {
@@ -65,17 +67,22 @@ router.post("/upload", async function (req, res, next) {
               } else if (data && columnName == "F") {
                 rowData["amount"] = data;
                 rowData["transaction_type"] = "C";
+              } else if (data && columnName == "G") {
+                rowData["balance"] = data;
               }
             }
           });
 
-          if (rowNumber > 17 && Object.keys(rowData).length > 0) {
-            excelData.push(rowData);
+          if (rowNumber > 17) {
+            if (Object.keys(rowData).length === 0) {
+              throw new Error("Break loop");
+            } else excelData.push(rowData);
           }
         });
       });
     } catch (error) {
-      return res.status(500).json({ message: error.message });
+      // console.log(bankData);
+      return res.status(500).json({ message: checkBank(bankData) });
     }
 
     // Process bank data and other operations if needed
@@ -113,4 +120,17 @@ function containsKeywords(str) {
 
   return false;
 }
+
+// Example route to read `output.json`
+router.get("/output", async function (req, res, next) {
+  try {
+    const filePath = "uploads/output.json"; // Adjust path as per your setup
+    const jsonData = fs.readFileSync(filePath, "utf-8");
+    const data = JSON.parse(jsonData);
+    res.json(data); // Send JSON data from output.json
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
 module.exports = router;
