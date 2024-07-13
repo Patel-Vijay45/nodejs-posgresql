@@ -28,7 +28,6 @@ router.post("/", async function (req, res, next) {
 router.post("/upload", async function (req, res, next) {
   upload(req, res, async (err) => {
     if (err) {
-      res.status(500).json({ message: "Error: No File Selected!" });
       res.send(err);
     } else {
       if (req.file == undefined) {
@@ -40,7 +39,7 @@ router.post("/upload", async function (req, res, next) {
         let data = [];
         try {
           const workbook = new ExcelJS.Workbook();
-          await workbook.xlsx.readFile("./uploads/" + req.file.filename);
+          await workbook.xlsx.readFile("../uploads/" + req.file.filename);
           workbook.eachSheet((worksheet, sheetId) => {
             let stringExists;
             worksheet.eachRow((row, rowNumber) => {
