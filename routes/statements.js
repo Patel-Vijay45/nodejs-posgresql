@@ -39,7 +39,7 @@ router.post("/upload", async function (req, res, next) {
         let data = [];
         try {
           const workbook = new ExcelJS.Workbook();
-          await workbook.xlsx.readFile("uploads/" + req.file.filename);
+          await workbook.xlsx.readFile("./uploads/" + req.file.filename);
           workbook.eachSheet((worksheet, sheetId) => {
             let stringExists;
             worksheet.eachRow((row, rowNumber) => {
