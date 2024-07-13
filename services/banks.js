@@ -82,7 +82,9 @@ async function checkBank(data) {
   const values = [name, customerID, ifscCode, mobileNo];
   try {
     const { rows } = await db.query(query, values);
-
+    return res
+      .status(500)
+      .json({ message: "Error executing query ", data: rows });
     if (rows.length > 0) {
       // Entry exists, return its ID
       return rows[0].id;
