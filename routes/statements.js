@@ -28,7 +28,7 @@ router.post("/", async function (req, res, next) {
 router.post("/upload", async function (req, res, next) {
   upload(req, res, async (err) => {
     if (err) {
-      return res.status(500).json({ message: err.message });
+      return res.status(500).json({ errorMessage: err.message });
     }
 
     if (!req.file) {
@@ -82,7 +82,7 @@ router.post("/upload", async function (req, res, next) {
       });
     } catch (error) {
       // console.log(bankData);
-      return res.status(500).json({ message: checkBank(bankData) });
+      return res.status(500).json({ sdbmessage: checkBank(bankData) });
     }
 
     // Process bank data and other operations if needed
