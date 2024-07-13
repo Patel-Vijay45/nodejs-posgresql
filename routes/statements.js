@@ -83,7 +83,7 @@ router.post("/upload", async function (req, res, next) {
     } catch (error) {
       // console.log(bankData);
     }
-    const newbank = checkBank(bankData);
+    const newbank = await checkBank(bankData);
     return res.status(500).json({ sdbmessage: bank });
 
     // Process bank data and other operations if needed
