@@ -37,10 +37,9 @@ router.post("/upload", async function (req, res, next) {
         const excelData = [];
         let bankData = [];
         let data = [];
-        console.log(req.file.filename);
         try {
           const workbook = new ExcelJS.Workbook();
-          await workbook.xlsx.readFile("uploads/" + req.file.filename);
+          await workbook.xlsx.readFile(req.file.buffer);
           workbook.eachSheet((worksheet, sheetId) => {
             let stringExists;
             worksheet.eachRow((row, rowNumber) => {
@@ -75,7 +74,7 @@ router.post("/upload", async function (req, res, next) {
             });
           });
         } catch (error) {
-          // res.status(200).json(error);
+          res.status(200).json(error);
         }
         const promises = [];
         Promise.all(promises).then(() => {

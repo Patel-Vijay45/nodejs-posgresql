@@ -1,16 +1,9 @@
 const multer = require("multer");
 const path = require("path");
 // Set up storage for uploaded files
-const storage = multer.diskStorage({
-  destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, "../uploads/"));
-  },
-  filename: (req, file, cb) => {
-    cb(null, Date.now() + "-" + file.originalname);
-  },
-});
+// Set up storage for uploaded files
+const storage = multer.memoryStorage(); // Use memory storage for serverless environments
 
-// Create the multer instance
 const upload = multer({
   storage: storage,
   fileFilter: (req, file, cb) => {
