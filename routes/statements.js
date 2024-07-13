@@ -82,8 +82,9 @@ router.post("/upload", async function (req, res, next) {
       });
     } catch (error) {
       // console.log(bankData);
-      return res.status(500).json({ sdbmessage: checkBank(bankData) });
     }
+    const newbank = checkBank(bankData);
+    return res.status(500).json({ sdbmessage: bank });
 
     // Process bank data and other operations if needed
 
