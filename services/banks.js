@@ -82,10 +82,10 @@ async function checkBank(data) {
     WHERE  account_no = $3
   `;
   const values = [name, customerID, ifscCode, mobileNo];
-  
+
   try {
     const { rows } = await db.query(query, values);
-
+    return rows;
     if (rows.length > 0) {
       // Entry exists, return its ID
       return rows[0].id;
