@@ -67,7 +67,42 @@ async function create(data) {
   return { messages };
 }
 
+async function checkBank(data) {
+  const { Name, Customer, IFSC, Mobile } = data;
+  const name = Name.split(":-")[1].trim();
+  const customerID = Customer.split(":-")[1].trim();
+  const ifscCode = IFSC.split(":-")[1].trim();
+  const mobileNo = Mobile.split(":-")[1].trim();
+
+  // Check if the entry exists in the database
+  const query = `
+    SELECT id FROM bank
+    WHERE name = $1 AND customer_id = $2 AND ifsc_code = $3 AND registered_mobile_no = $4
+  `;
+  const values = [name, customerID, ifscCode, mobileNo];
+  try {
+    const { rows } = await db.query(query, values);
+
+    if (rows.length > 0) {
+      // Entry exists, return its ID
+      return rows[0].id;
+    } else {
+      // Entry doesn't exist, insert it and return the new ID
+      const insertQuery = `
+        INSERT INTO bank (name, customer_id, ifsc_code, registered_mobile_no)
+        VALUES ($1, $2, $3, $4)
+        RETURNING id
+      `;
+      const insertResult = await pool.query(insertQuery, values);
+      return insertResult.rows[0].id;
+    }
+  } catch (err) {
+    console.error("Error executing query:", err.message);
+    throw err;
+  }
+}
 module.exports = {
   getBanks,
   create,
+  checkBank,
 };

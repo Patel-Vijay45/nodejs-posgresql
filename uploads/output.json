@@ -1,0 +1,2918 @@
+[
+  {
+    "transaction_date": "01-01-2024",
+    "particulars": "UPI/P2M/436778113450/StarPanPalour/UPI/AxisBankLtd.",
+    "amount": "180.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-01-2024",
+    "particulars": "UPI/P2A/400146706511/JAYESHKUM/BankofB/UPI/",
+    "amount": "880.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "01-01-2024",
+    "particulars": "UPI/P2M/436708843252/BharatPeMerchant/Payto/YesBank_Yespay",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-01-2024",
+    "particulars": "923010012957641:Int.Pd:01-10-2023to31-12-2023",
+    "amount": "978.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "02-01-2024",
+    "particulars": "UPI/P2M/436857857315/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-01-2024",
+    "particulars": "UPI/P2M/400219175730/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-01-2024",
+    "particulars": "UPI/P2M/436963515149/SHRINATHSWEETS/grocer/PaytmPaymentsBank",
+    "amount": "150.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-01-2024",
+    "particulars": "UPI/P2M/400312621388/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-01-2024",
+    "particulars": "UPI/P2M/400430161231/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-01-2024",
+    "particulars": "UPI/P2M/400481262484/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-01-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1137/040124/MANSA",
+    "amount": "20000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-01-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1138/040124/MANSA",
+    "amount": "20000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-01-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1139/040124/MANSA",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-01-2024",
+    "particulars": "UPI/P2M/437103897515/Vi/rechar/PaytmPaymentsBank",
+    "amount": "199.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-01-2024",
+    "particulars": "IMPS/P2A/400518094117/ONE97COM/ICICIBAN/FTTransf/9192053741979229231",
+    "amount": "1.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "06-01-2024",
+    "particulars": "NEFT/N006242820544322/RKSVSECURITIESINDIAPVTL/HDFCBANK/VIJAYKUMARPATEL",
+    "amount": "60094.77",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "06-01-2024",
+    "particulars": "UPI/P2M/437259820977/SnehaJewellers/jewell/AxisBankLtd.",
+    "amount": "700.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-01-2024",
+    "particulars": "UPI/P2M/437240823199/AlpeshFruitCentre/grocer/AxisBankLtd.",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-01-2024",
+    "particulars": "UPI/P2M/400701360726/Mansa7058/grocer/PaytmPaymentsBank",
+    "amount": "479.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-01-2024",
+    "particulars": "UPI/P2M/437396866033/MODIJIGARKUMARPRAVI/rechar/YesBankLtd",
+    "amount": "680.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-01-2024",
+    "particulars": "UPI/P2M/437354682890/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "42.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-01-2024",
+    "particulars": "UPI/P2M/400861196073/ARBUDA2/petrol/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-01-2024",
+    "particulars": "UPI/P2M/400818620405/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-01-2024",
+    "particulars": "UPI/P2A/437537142707/ShantiKhunte/Paymo/AirtelPaymentsBank",
+    "amount": "800.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-01-2024",
+    "particulars": "UPI/P2M/437515766690/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "62.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-01-2024",
+    "particulars": "UPI/P2M/401052979449/Upstox/UPI/HDFCBANKLTD",
+    "amount": "75000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-01-2024",
+    "particulars": "IMPS/P2A/401019670024/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "17129.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "10-01-2024",
+    "particulars": "UPI/P2M/401057310040/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "11-01-2024",
+    "particulars": "UPI/P2M/437778539098/Upstox/UPI/HDFCBANKLTD",
+    "amount": "30000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "11-01-2024",
+    "particulars": "UPI/P2M/401175941013/Upstox/UPI/HDFCBANKLTD",
+    "amount": "40000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-01-2024",
+    "particulars": "UPI/P2M/401203295724/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-01-2024",
+    "particulars": "UPI/P2M/401203295724/923010012957641/120124/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "12-01-2024",
+    "particulars": "UPI/P2M/437850795285/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-01-2024",
+    "particulars": "UPI/P2M/437814498225/Sabbirhusenibrahimbh/food/PaytmPaymentsBank",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-01-2024",
+    "particulars": "UPI/P2A/401291836719/JAIMINBH/BankofI/Payment/",
+    "amount": "825.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "13-01-2024",
+    "particulars": "UPI/P2M/437924833466/BharatPeMerchant/Payto/YesBank_Yespay",
+    "amount": "200.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-01-2024",
+    "particulars": "UPI/P2M/401457051026/JodhpurJalebi/food/AxisBankLtd.",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-01-2024",
+    "particulars": "UPI/P2A/438126915416/JAIMINBHARATKUMARDA/rechar/BankofIndia",
+    "amount": "242.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-01-2024",
+    "particulars": "IMPS/P2A/401628128174/RKSVSECU/RATNAKAR/UPSTOXFu/9199999999999176111",
+    "amount": "114448.21",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "17-01-2024",
+    "particulars": "UPI/P2M/401764369348/BHARATJIVELAJITHAKO/food/BankofIndia",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-01-2024",
+    "particulars": "UPI/P2A/401726770150/SACHINKUMARCHELABHAI/shoppi/BankofBaroda",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-01-2024",
+    "particulars": "UPI/P2M/438354290178/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-01-2024",
+    "particulars": "UPI/P2M/438366393481/INDRABAHADURROKAY/food/PaytmPaymentsBank",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-01-2024",
+    "particulars": "UPI/P2M/401952864680/JioPrepaidRecharges/rechar/PaytmPaymentsBank",
+    "amount": "91.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-01-2024",
+    "particulars": "UPI/P2M/401913869144/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-01-2024",
+    "particulars": "UPI/P2M/438654907326/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-01-2024",
+    "particulars": "UPI/P2M/402096909447/SONU/food/PaytmPaymentsBank",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-01-2024",
+    "particulars": "BNATxnChrgsInclGST",
+    "amount": "177.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-01-2024",
+    "particulars": "SMSAlertsChrgsInclGST",
+    "amount": "5.90",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-01-2024",
+    "particulars": "UPI/P2M/438700646173/MrMAHIPATSINHCHAN/milk/YesBankLtd",
+    "amount": "64.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-01-2024",
+    "particulars": "UPI/P2M/402169349454/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "22.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-01-2024",
+    "particulars": "UPI/P2M/402319716943/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "84.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-01-2024",
+    "particulars": "UPI/P2M/438924617215/bajajpay.6879729.0207/milk/INDUSINDBANK",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-01-2024",
+    "particulars": "UPI/P2M/439028050568/ARBUDA1/petrol/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-01-2024",
+    "particulars": "UPI/P2M/439079550208/IZUMARETAIL/grocer/PaytmPaymentsBank",
+    "amount": "2553.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-01-2024",
+    "particulars": "UPI/P2M/439053251182/SHRINATHSWEETS/food/PaytmPaymentsBank",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-01-2024",
+    "particulars": "UPI/P2M/402453653976/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-01-2024",
+    "particulars": "UPI/P2M/402514093515/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "99.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-01-2024",
+    "particulars": "UPI/P2M/402556796696/Sabbirhusenibrahimbh/milk/PaytmPaymentsBank",
+    "amount": "70.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-01-2024",
+    "particulars": "UPI/P2M/402612728139/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-01-2024",
+    "particulars": "UPI/P2A/402638234250/ParthrajsinhGohil/UPI/TriOTech",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-01-2024",
+    "particulars": "UPI/P2M/402734349122/MrSONIDHAVALKUMAR/milk/PaytmPaymentsBank",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-01-2024",
+    "particulars": "UPI/P2M/402782765888/SHANTA/food/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-01-2024",
+    "particulars": "UPI/P2A/439322544246/JAIMINBH/BankofI/UPI/",
+    "amount": "25.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "27-01-2024",
+    "particulars": "UPI/P2M/402745467378/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-01-2024",
+    "particulars": "UPI/P2M/402839701743/MrMAHIPATSINHCHAN/milk/YesBankLtd",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "UPI/P2M/439562430280/Upstox/UPI/HDFCBANKLTD",
+    "amount": "70000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "ATM-CASH/YAGNIKCHEMBERSMA/MANSA/290124",
+    "amount": "500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "UPI/P2M/402906834275/Mehulkumarmodi/grocer/PaytmPaymentsBank",
+    "amount": "185.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/5893/290124/MANSA",
+    "amount": "1000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "UPI/P2M/439577136229/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-01-2024",
+    "particulars": "UPI/P2M/402921650623/SHREEPATELDUGDHALAY/paneer/YesBankLtd",
+    "amount": "84.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-01-2024",
+    "particulars": "UPI/P2M/403033756690/billdesktez/UPI/ICICIBank",
+    "amount": "910.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-01-2024",
+    "particulars": "UPI/P2M/403006990811/MansinghKhatri/food/PaytmPaymentsBank",
+    "amount": "250.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "31-01-2024",
+    "particulars": "IMPS/P2A/403125136391/RKSVSECU/RATNAKAR/UPSTOXFu/9199999999999176111",
+    "amount": "16000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "31-01-2024",
+    "particulars": "UPI/P2A/403141006615/JAYESHKUM/BankofB/UPI/",
+    "amount": "18100.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "31-01-2024",
+    "particulars": "BYCASHDEPOSIT-BNA/DPRH316501/6149/310124/MANSA",
+    "amount": "42000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "31-01-2024",
+    "particulars": "UPI/P2M/439717218625/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "82.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-02-2024",
+    "particulars": "UPI/P2M/403239037749/IRCTCCF/IRCTC/HDFCBANKLTD",
+    "amount": "7323.60",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-02-2024",
+    "particulars": "UPI/P2A/439956783506/JAIMINBHARATKUMARDA/UPI/BankofIndia",
+    "amount": "375.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-02-2024",
+    "particulars": "UPI/P2M/403497324548/PRAVEENISHWARNAIK/foodc/PaytmPaymentsBank",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-02-2024",
+    "particulars": "UPI/P2M/403448053500/JioPrepaidRecharges/OidBR0/PaytmPaymentsBank",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-02-2024",
+    "particulars": "UPI/P2M/440236947236/MANJUNATH/food/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-02-2024",
+    "particulars": "UPI/P2M/403680047277/PRAVEENISHWARNAIK/food/PaytmPaymentsBank",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-02-2024",
+    "particulars": "UPI/P2A/440451914769/SACHINGRATAN/chicke/BankofBaroda",
+    "amount": "500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-02-2024",
+    "particulars": "UPI/P2M/440590754875/Upstox/UPI/HDFCBANKLTD",
+    "amount": "60000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-02-2024",
+    "particulars": "UPI/P2M/440541082762/RAJABAKSHIHNADAF/grocer/YesBankLtd",
+    "amount": "147.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-02-2024",
+    "particulars": "UPI/P2M/404086795033/PRAVEENISHWARNAIK/food/PaytmPaymentsBank",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-02-2024",
+    "particulars": "NEFT/N040242876146992/RKSVSECURITIESINDIAPVTL/HDFCBANK/VIJAYKUMARPATEL",
+    "amount": "1800.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "09-02-2024",
+    "particulars": "UPI/P2M/440628706596/Medicinezone/medici/AxisBankLtd.",
+    "amount": "400.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-02-2024",
+    "particulars": "UPI/P2M/404020534413/PRAVEENISHWARNAIK/food/PaytmPaymentsBank",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-02-2024",
+    "particulars": "UPI/P2M/404017336444/MANJUNATH/UPI/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-02-2024",
+    "particulars": "IMPS/P2A/404113669612/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "17419.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "12-02-2024",
+    "particulars": "UPI/P2M/440986769820/MANJUNATH/UPI/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-02-2024",
+    "particulars": "UPI/P2M/440968672579/PRAVEENISHWARNAIK/bakery/PaytmPaymentsBank",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/404459978927/JioPrepaidRecharges/rechar/PaytmPaymentsBank",
+    "amount": "239.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2A/404482580580/IRCTCCF/HDFCBANK/UPIRefu/",
+    "amount": "3650.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/404431388997/KHAWAJAKOPPAVALI/UPI/YesBankLtd",
+    "amount": "500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2A/404448428241/PRAKASHR/CanaraBa/Payment/",
+    "amount": "1500.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/404461570938/ShabanaPanwale/grocer/PaytmPaymentsBank",
+    "amount": "640.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/404445404330/ShabanaPanwale/grocer/PaytmPaymentsBank",
+    "amount": "350.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/441005910779/NARAYANRANGNATHSAM/shoppi/YesBankLtd",
+    "amount": "500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-02-2024",
+    "particulars": "UPI/P2M/404452612432/NARAYANRANGNATHSAM/shoppi/YesBankLtd",
+    "amount": "600.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-02-2024",
+    "particulars": "UPI/P2M/404590835690/MSILMTSCOLONY15105/grocer/HDFCBANKLTD",
+    "amount": "125.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-02-2024",
+    "particulars": "IMPS/P2A/404525202504/RKSVSECU/RATNAKAR/UPSTOXFu/9199999999999176111",
+    "amount": "30000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "15-02-2024",
+    "particulars": "UPI/P2M/404613370074/RAJABAKSHIHNADAF/grocer/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-02-2024",
+    "particulars": "UPI/P2A/404669297009/PRAKASHR/CanaraBa/Payment/",
+    "amount": "2000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "15-02-2024",
+    "particulars": "ATM-CASH/SBIMRUTYUNJAYNAG/DHARWAD/150224",
+    "amount": "3000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-02-2024",
+    "particulars": "UPI/P2M/404768082066/UPSTOX/Payvi/AxisBankLtd.",
+    "amount": "105621.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-02-2024",
+    "particulars": "UPI/P2M/404832654087/IRCTC_APP_UPI/train/PaytmPaymentsBank",
+    "amount": "1463.60",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-02-2024",
+    "particulars": "UPI/P2M/404889090036/MEDPLUSBAILAPPANAVAR/dyper/HDFCBANKLTD",
+    "amount": "279.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/441537109135/JioPrepaidRecharges/rechar/PaytmPaymentsBank",
+    "amount": "91.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/441597231537/LAXMIGUGI/UPI/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/404931931023/PRAMODCANKAD/Payto/FederalBank",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/404937031793/MANJUNATH/UPI/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/404956332620/Medicinezone/medici/AxisBankLtd.",
+    "amount": "45.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/404990630483/MANJUNATH/UPI/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-02-2024",
+    "particulars": "UPI/P2M/404952731685/JioPrepaidRecharges/rechar/PaytmPaymentsBank",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-02-2024",
+    "particulars": "UPI/P2M/441668567130/SourabhPetroleums/petrol/PaytmPaymentsBank",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-02-2024",
+    "particulars": "UPI/P2M/405046877533/Medicinezone/medici/AxisBankLtd.",
+    "amount": "295.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-02-2024",
+    "particulars": "UPI/P2A/441709770300/IRCTC_APP/PaytmPay/express/",
+    "amount": "1375.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "20-02-2024",
+    "particulars": "UPI/P2M/405191486315/IRCTC_APP_UPI/UPI/PaytmPaymentsBank",
+    "amount": "1884.05",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-02-2024",
+    "particulars": "UPI/P2A/405318426441/IRCTC_APP/PaytmPay/express/",
+    "amount": "1795.36",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "23-02-2024",
+    "particulars": "UPI/P2M/442043136672/PAISNILIGIRIBAKERY/cake/PaytmPaymentsBank",
+    "amount": "560.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-02-2024",
+    "particulars": "UPI/P2M/405451236028/SHRISIDDHIVINAYAKM/medici/YesBankLtd",
+    "amount": "36.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-02-2024",
+    "particulars": "UPI/P2M/405413640358/PRASHANT/bakery/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-02-2024",
+    "particulars": "UPI/P2M/442122873545/RAMESHSURAJLOHAR/UPI/PaytmPaymentsBank",
+    "amount": "300.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-02-2024",
+    "particulars": "UPI/P2M/405661121504/TrendsHubli8060/806010/JioPaymentsBank",
+    "amount": "698.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-02-2024",
+    "particulars": "UPI/P2M/442284624696/K240KFCHUBLIHSBAN/lunch/HDFCBANKLTD",
+    "amount": "994.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-02-2024",
+    "particulars": "UPI/P2M/442229324269/K240KFCHUBLIHSBAN/food/HDFCBANKLTD",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-02-2024",
+    "particulars": "UPI/P2M/442512619858/IRCTC_APP_UPI/train/PaytmPaymentsBank",
+    "amount": "4174.50",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-02-2024",
+    "particulars": "ATM-CASH/SBIMRUTYUNJAYNAG/DHARWAD/280224",
+    "amount": "5500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-02-2024",
+    "particulars": "UPI/P2M/405908456900/KFC/food/YesBankLtd",
+    "amount": "231.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-02-2024",
+    "particulars": "UPI/P2M/406062561148/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-02-2024",
+    "particulars": "UPI/P2A/442606689954/IRCTC_APP/PaytmPay/express/",
+    "amount": "1865.28",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "29-02-2024",
+    "particulars": "UPI/P2M/442667595563/SHREEPATELDUGDHALAY/paneer/YesBankLtd",
+    "amount": "129.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-03-2024",
+    "particulars": "NEFT/N061242909671917/RKSVSECURITIESINDIAPVTL/HDFCBANK/VIJAYKUMARPATEL",
+    "amount": "132663.40",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "01-03-2024",
+    "particulars": "UPI/P2A/442751108151/JAYESHKUM/BankofB/UPI/",
+    "amount": "16900.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "01-03-2024",
+    "particulars": "UPI/P2M/442786035707/MansaPetroleumSales/UPI/PaytmPaymentsBank",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-03-2024",
+    "particulars": "UPI/P2M/406146935399/SHREEPATELDUGDHALAY/paneer/YesBankLtd",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-03-2024",
+    "particulars": "UPI/P2M/406284863792/MEDKARTPHARMACYPRIV/Payvia/AirtelPaymentsBank",
+    "amount": "4669.50",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-03-2024",
+    "particulars": "UPI/P2M/406333714235/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "310.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-03-2024",
+    "particulars": "UPI/P2M/406343019510/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-03-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1619/030324/MANSA",
+    "amount": "20000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-03-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1620/030324/MANSA",
+    "amount": "20000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-03-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/1621/030324/MANSA",
+    "amount": "10000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-03-2024",
+    "particulars": "UPI/P2M/406469074210/MedkartPharmacy-De/medici/YesBankLtd",
+    "amount": "11.08",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-03-2024",
+    "particulars": "UPI/P2M/406571398060/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-03-2024",
+    "particulars": "UPI/P2A/406564044016/ParthrajsinhGohil/food/TriOTech",
+    "amount": "400.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-03-2024",
+    "particulars": "UPI/P2A/443222380116/CHAUHANTARUNMAHESHC/parcel/UCOBank",
+    "amount": "150.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-03-2024",
+    "particulars": "UPI/P2M/406600288145/RaviManajiThakor/milk/PaytmPaymentsBank",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-03-2024",
+    "particulars": "UPI/P2M/443242590721/Sabbirhusenibrahimbh/grocer/PaytmPaymentsBank",
+    "amount": "140.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-03-2024",
+    "particulars": "UPI/P2M/443463357371/ARBUDA2/petrol/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-03-2024",
+    "particulars": "UPI/P2M/443424986544/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-03-2024",
+    "particulars": "IMPS/P2A/406822600580/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "22000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "09-03-2024",
+    "particulars": "UPI/P2A/406965229214/MEETKUMARPATEL/food/AxisBankLtd.",
+    "amount": "200.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-03-2024",
+    "particulars": "UPI/P2M/406967929951/billdesktez/UPI/ICICIBank",
+    "amount": "1131.69",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-03-2024",
+    "particulars": "UPI/P2M/443646349799/AMAZONSELLERSERVICE/shoppi/HDFCBANKLTD",
+    "amount": "289.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-03-2024",
+    "particulars": "UPI/P2M/407070961389/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "190.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-03-2024",
+    "particulars": "UPI/P2M/443643762833/JayeshjiThakor/grocer/PaytmPaymentsBank",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-03-2024",
+    "particulars": "UPI/P2A/407060361245/SUVATARVIKARAMBHAI/grocer/StateBankOfIndia",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-03-2024",
+    "particulars": "UPI/P2M/443617062091/JayeshjiThakor/grocer/PaytmPaymentsBank",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "11-03-2024",
+    "particulars": "UPI/P2M/443740443986/KHELANKANTIBHAITHES/milk/PaytmPaymentsBank",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-03-2024",
+    "particulars": "UPI/P2M/443899656352/JioPrepaidRecharges/403122/PaytmPaymentsBank",
+    "amount": "209.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-03-2024",
+    "particulars": "UPI/P2A/443835378768/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-03-2024",
+    "particulars": "UPI/P2M/443964124049/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "77.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-03-2024",
+    "particulars": "UPI/P2M/444062783608/Medicinezone/medici/AxisBankLtd.",
+    "amount": "550.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-03-2024",
+    "particulars": "UPI/P2M/444089789065/KHELANKANTIBHAITHES/food/PaytmPaymentsBank",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-03-2024",
+    "particulars": "UPI/P2M/407630947373/BharatPeMerchant/Payto/YesBank_Yespay",
+    "amount": "44.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-03-2024",
+    "particulars": "UPI/P2M/407612173885/Sabbirhusenibrahimbh/food/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-03-2024",
+    "particulars": "UPI/P2A/444257181224/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-03-2024",
+    "particulars": "UPI/P2M/444210777598/PatelMukeshbhai/food/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-03-2024",
+    "particulars": "UPI/P2M/407624781144/PatelMukeshbhai/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-03-2024",
+    "particulars": "UPI/P2M/407773702973/JioPrepaidRecharges/403172/YesBankLtd",
+    "amount": "91.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-03-2024",
+    "particulars": "UPI/P2M/444356524022/GURJARDHARMENDRACHH/food/YesBankLtd",
+    "amount": "70.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-03-2024",
+    "particulars": "UPI/P2M/444414054933/BlueDartExpressLtd/NnktaN/ICICIBank",
+    "amount": "2999.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-03-2024",
+    "particulars": "UPI/P2M/407867059173/BharatPeMerchant/food/YesBank_Yespay",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-03-2024",
+    "particulars": "UPI/P2M/407805360413/BharatPeMerchant/food/YesBank_Yespay",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-03-2024",
+    "particulars": "UPI/P2A/407887864171/HARDIKKUMARJSONI/flight/ICICIBank",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-03-2024",
+    "particulars": "UPI/P2A/407983403252/PUSHPABHANDAGE/shoppi/StateBankOfIndia",
+    "amount": "3000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-03-2024",
+    "particulars": "UPI/P2M/407993621965/Sabbirhusenibrahimbh/UPI/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-03-2024",
+    "particulars": "UPI/P2M/444604978964/KHELANKANTIBHAITHES/friend/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-03-2024",
+    "particulars": "UPI/P2A/408156090468/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-03-2024",
+    "particulars": "UPI/P2M/444811259299/VijayKiranaStore/grocer/AxisBankLtd.",
+    "amount": "70.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-03-2024",
+    "particulars": "UPI/P2M/444824869845/ANILKUMARBABULALPAT/food/YesBankLtd",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-03-2024",
+    "particulars": "UPI/P2A/444860468828/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-03-2024",
+    "particulars": "UPI/P2M/408247470400/JIGNESHKUMARSATAJI/food/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-03-2024",
+    "particulars": "UPI/P2M/444885173297/JIGNESHKUMARSATAJI/food/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-03-2024",
+    "particulars": "UPI/P2A/408349183465/PRADIPKUMARBALVANTBH/grocer/BankofIndia",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-03-2024",
+    "particulars": "UPI/P2M/444913578859/IndianOilPetrolPum/petrol/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-03-2024",
+    "particulars": "UPI/P2M/444985984791/SAHJANANDDAIRYFARM/milk/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-03-2024",
+    "particulars": "UPI/P2M/444959227660/HARDIKRAMESHBHAIPAT/friend/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2M/445004340796/MAULIKKUMARPRAKASHBH/food/YesBankLtd",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2A/408417349129/PatelPankajbhaiRame/food/IDFCFIRSTBank",
+    "amount": "56.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2M/408400863807/Sabbirhusenibrahimbh/grocer/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2M/445082765903/ISMEDICALSTORES/grocer/HDFCBANKLTD",
+    "amount": "89.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2M/445051563103/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-03-2024",
+    "particulars": "UPI/P2M/408484461431/DabgarMaulikShailes/grocer/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-03-2024",
+    "particulars": "UPI/P2M/445116488449/JAYENDRASINHNARENDRA/jaimin/YesBankLtd",
+    "amount": "600.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-03-2024",
+    "particulars": "UPI/P2M/408557891013/AirtelBillPayments/UPIInt/AirtelPaymentsBank",
+    "amount": "589.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-03-2024",
+    "particulars": "UPI/P2M/445235235770/AJIO/UPI/YesBankLtd",
+    "amount": "2658.40",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-03-2024",
+    "particulars": "UPI/P2M/445292752153/GAURANGKUMARYOGESHKU/jaimin/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-03-2024",
+    "particulars": "UPI/P2M/445264355544/HARDIKRAMESHBHAIPAT/food/YesBankLtd",
+    "amount": "3.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-03-2024",
+    "particulars": "UPI/P2A/408790167888/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-03-2024",
+    "particulars": "UPI/P2M/445494441424/VijayKiranaStore/grocer/AxisBankLtd.",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-03-2024",
+    "particulars": "UPI/P2A/408803538323/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "52.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-03-2024",
+    "particulars": "UPI/P2M/408942002048/JIGNESHKUMARSATAJI/jaimin/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-03-2024",
+    "particulars": "UPI/P2M/445677916809/SnehaJewellers/jewell/AxisBankLtd.",
+    "amount": "3500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-03-2024",
+    "particulars": "UPI/P2A/409080938806/AKASHASHOKBHAIADHIK/akash/BankofBaroda",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-03-2024",
+    "particulars": "UPI/P2M/409009966716/KHELANKANTIBHAITHES/friend/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "31-03-2024",
+    "particulars": "UPI/P2A/409193024134/AKASHASH/BankofB/UPI/",
+    "amount": "100.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "31-03-2024",
+    "particulars": "UPI/P2A/409124176388/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "31-03-2024",
+    "particulars": "UPI/P2M/409160293122/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "31-03-2024",
+    "particulars": "SB:923010012957641:Int.Pd:01-01-2024to31-03-2024",
+    "amount": "820.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/409287141035/JUGADIADDA/food/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/445836258270/RAVIKUMARJAYANTBHAI/food/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2A/409284763479/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/445938478112/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2A/409315518942/JAYESHKUM/BankofB/UPI/",
+    "amount": "18100.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/445938005907/ShambhuPanParlour/vechil/YesBankLtd",
+    "amount": "200.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2A/445934165335/AJIO/YesBank/express/",
+    "amount": "779.70",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/445988143384/JioPrepaidRecharges/404022/YesBankLtd",
+    "amount": "149.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-04-2024",
+    "particulars": "UPI/P2M/409348549706/DevalkumarRamabhaiS/food/YesBankLtd",
+    "amount": "190.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-04-2024",
+    "particulars": "UPI/P2M/409469459206/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-04-2024",
+    "particulars": "UPI/P2M/446012859552/ShambhuPanParlour/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-04-2024",
+    "particulars": "UPI/P2M/446011105441/PatelMukeshbhai/food/YesBankLtd",
+    "amount": "75.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-04-2024",
+    "particulars": "UPI/P2M/446023113955/JIGNESHKUMARSATAJI/friend/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-04-2024",
+    "particulars": "UPI/P2M/409538923671/ARBUDA2/UPI/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-04-2024",
+    "particulars": "UPI/P2M/409557136202/ShambhuPanParlour/friend/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-04-2024",
+    "particulars": "UPI/P2A/446235899015/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "72.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-04-2024",
+    "particulars": "UPI/P2M/446299314578/CHETANKUMARBAROT/fod/YesBankLtd",
+    "amount": "254.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-04-2024",
+    "particulars": "UPI/P2A/409678436310/JAIMINBH/BankofI/cashATM/",
+    "amount": "8000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "05-04-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/7284/050424/MANSA",
+    "amount": "8000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-04-2024",
+    "particulars": "UPI/P2M/446369934821/SHREEPATELDUGDHALAY/food/YesBankLtd",
+    "amount": "56.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-04-2024",
+    "particulars": "UPI/P2M/446388162203/Sabbirhusenibrahimbh/food/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-04-2024",
+    "particulars": "UPI/P2M/446421981323/WWWMYNTRACOM/UPI/HDFCBANKLTD",
+    "amount": "2652.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-04-2024",
+    "particulars": "BYCASHDEPOSIT-BNA/DPRH316501/7567/070424/MANSA",
+    "amount": "4200.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "07-04-2024",
+    "particulars": "UPI/P2M/446444020343/Sabbirhusenibrahimbh/food/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-04-2024",
+    "particulars": "UPI/P2A/446436842123/AKASHASH/BankofB/UPI/",
+    "amount": "1700.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "08-04-2024",
+    "particulars": "UPI/P2M/409970833495/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-04-2024",
+    "particulars": "UPI/P2M/446525656399/ShambhuPanParlour/friend/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-04-2024",
+    "particulars": "UPI/P2M/446516358907/ShambhuPanParlour/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-04-2024",
+    "particulars": "UPI/P2M/446526987218/SHANKARTHAKOR/food/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-04-2024",
+    "particulars": "UPI/P2M/410097297121/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-04-2024",
+    "particulars": "UPI/P2M/410080224217/JioPrepaidRecharges/404092/YesBankLtd",
+    "amount": "209.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-04-2024",
+    "particulars": "UPI/P2A/446649627656/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-04-2024",
+    "particulars": "UPI/P2A/446672327136/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "09-04-2024",
+    "particulars": "UPI/P2M/410064923435/KESHUBHAIBHANVARJIP/food/YesBankLtd",
+    "amount": "140.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-04-2024",
+    "particulars": "UPI/P2M/446712843556/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-04-2024",
+    "particulars": "IMPS/P2A/410113312990/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "25806.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "10-04-2024",
+    "particulars": "ATM-CASH/YAGNIKCHAMBER2ND/GANDHINAGAR/100424",
+    "amount": "500.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "11-04-2024",
+    "particulars": "UPI/P2M/410253601595/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "11-04-2024",
+    "particulars": "UPI/P2A/410251635097/HARDIKKUMARJSONI/flight/ICICIBank",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-04-2024",
+    "particulars": "UPI/P2A/410352876379/ANIS/saloon/HDFCBANKLTD",
+    "amount": "640.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-04-2024",
+    "particulars": "UPI/P2M/446903874954/BharatPeMerchant/PayTo/YesBank_Yespay",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-04-2024",
+    "particulars": "UPI/P2M/410348687267/SUKHADIYANIRAVHARSH/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-04-2024",
+    "particulars": "UPI/P2M/410419812236/PUROHITVIKRAMBHAI/friend/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-04-2024",
+    "particulars": "UPI/P2M/410461620363/JioPrepaidRecharges/404138/YesBankLtd",
+    "amount": "19.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-04-2024",
+    "particulars": "UPI/P2A/410442332812/THAKORDASHRATHBHAID/UPI/BankofBaroda",
+    "amount": "160.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-04-2024",
+    "particulars": "UPI/P2A/410471432120/THAKORDASHRATHBHAID/UPI/BankofBaroda",
+    "amount": "1440.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410558546208/CHAUHANBALWANTSINH/food/YesBankLtd",
+    "amount": "82.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410507642919/CHAUHANBALWANTSINH/food/YesBankLtd",
+    "amount": "125.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410512441142/MirzaTofikbegYunusb/fried/INDUSINDBANK",
+    "amount": "45.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410574861544/SHREEPATELDUGDHALAY/food/YesBankLtd",
+    "amount": "28.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/447195962244/JioPrepaidRecharges/404148/YesBankLtd",
+    "amount": "91.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410547366847/BPPetrolPump-Coru/friend/YesBankLtd",
+    "amount": "600.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2M/410591870973/RITESHHASMUKHBHAISA/friend/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2A/410559273393/VISHALBHAIMOHANBHAI/friend/UnionBankofIndia",
+    "amount": "145.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2A/410583372440/JAIMINBHARATKUMARDA/food/BankofIndia",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-04-2024",
+    "particulars": "UPI/P2A/447156701671/JAIMINBH/BankofI/food/",
+    "amount": "2520.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "16-04-2024",
+    "particulars": "UPI/P2M/447386144958/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-04-2024",
+    "particulars": "UPI/P2M/447352057622/ShambhuPanParlour/friend/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-04-2024",
+    "particulars": "UPI/P2M/447328870272/MCDONALDS/food/HDFCBANKLTD",
+    "amount": "938.05",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-04-2024",
+    "particulars": "UPI/P2M/447392878087/LTPUJARINEWSHOP/shoppi/HDFCBANKLTD",
+    "amount": "1530.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-04-2024",
+    "particulars": "UPI/P2M/410806599711/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-04-2024",
+    "particulars": "UPI/P2A/410872525921/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-04-2024",
+    "particulars": "UPI/P2M/410801037899/KHELANKANTIBHAITHES/friend/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-04-2024",
+    "particulars": "UPI/P2M/447549444203/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-04-2024",
+    "particulars": "UPI/P2M/410939984008/ISMEDICALSTORES/medici/HDFCBANKLTD",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-04-2024",
+    "particulars": "UPI/P2M/411091896224/BharatPeMerchant/PayTo/YesBank_Yespay",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-04-2024",
+    "particulars": "UPI/P2M/447662509280/BharatPeMerchant/PayTo/YesBank_Yespay",
+    "amount": "58.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-04-2024",
+    "particulars": "UPI/P2M/411068438475/JIGNESHKUMARSATAJI/friend/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-04-2024",
+    "particulars": "UPI/P2M/447746341322/SHAHBALMUKUNDSANKAL/grocer/YesBankLtd",
+    "amount": "188.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-04-2024",
+    "particulars": "UPI/P2A/411145868251/SHUBHAMREADYMADE/clothe/StateBankOfIndia",
+    "amount": "300.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-04-2024",
+    "particulars": "UPI/P2M/411195775052/ISMEDICALSTORES/medici/HDFCBANKLTD",
+    "amount": "99.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-04-2024",
+    "particulars": "UPI/P2M/411194070059/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-04-2024",
+    "particulars": "SMSAlertsChrgsInclGST",
+    "amount": "5.90",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-04-2024",
+    "particulars": "UPI/P2M/447868600455/ISMEDICALSTORES/medici/HDFCBANKLTD",
+    "amount": "1238.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-04-2024",
+    "particulars": "UPI/P2M/411277931042/RAJENDRAKUMARVISHRAM/food/YesBankLtd",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-04-2024",
+    "particulars": "UPI/P2M/447833633162/SHUBHDRABENRSURYAN/food/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/411310539588/GAJANANDNANABHAIDHI/grocer/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/447991542935/KANAYALALSUNDERDAS/grocer/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/411335652588/LIYAKATHUSSAINDANSA/travel/IndianOverseasBank",
+    "amount": "123.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/447979148062/CHHAGANLALKHEMAJIP/food/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/447994359094/JioPrepaidRecharges/404228/YesBankLtd",
+    "amount": "61.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/411385962788/HARIRAMBADRIPRASADA/food/YesBankLtd",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2M/411306858125/HARIRAMBADRIPRASADA/food/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-04-2024",
+    "particulars": "UPI/P2A/447927069957/PravinSantoshDubey/food/KotakMahindraBank",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-04-2024",
+    "particulars": "UPI/P2M/448179765801/LAXMIGUGI/Payto/FederalBank",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-04-2024",
+    "particulars": "UPI/P2M/411597573251/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-04-2024",
+    "particulars": "UPI/P2M/411589674656/MEDICINEZONE/medici/YesBankLtd",
+    "amount": "399.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-04-2024",
+    "particulars": "UPI/P2M/411644513822/LAXMIGUGI/food/YesBankLtd",
+    "amount": "35.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-04-2024",
+    "particulars": "UPI/P2M/411708142474/MohammedSaleemBater/food/YesBankLtd",
+    "amount": "720.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-04-2024",
+    "particulars": "UPI/P2M/448310548527/Kiranakumar/grocer/YesBankLtd",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-04-2024",
+    "particulars": "UPI/P2M/448302762712/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "196.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-04-2024",
+    "particulars": "UPI/P2M/411737959653/MAHABOOBSABNADAF/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-04-2024",
+    "particulars": "UPI/P2M/411806182262/MEDICINEZONE/medici/YesBankLtd",
+    "amount": "18.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-04-2024",
+    "particulars": "UPI/P2M/448459915889/RAJABAKSHIHNADAF/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-04-2024",
+    "particulars": "UPI/P2M/448452618033/RAJABAKSHIHNADAF/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-04-2024",
+    "particulars": "UPI/P2A/411886216713/DHARMENDRAGAUTAM/food/UnionBankofIndia",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-04-2024",
+    "particulars": "UPI/P2M/411811215139/WASIMABDULAZIZHO/food/YesBankLtd",
+    "amount": "150.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-04-2024",
+    "particulars": "UPI/P2M/411970230952/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-04-2024",
+    "particulars": "UPI/P2M/411991430415/shantienterprises/petrol/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-04-2024",
+    "particulars": "UPI/P2M/448609312684/PICKUPFRESHPRIVATE/food/HDFCBANKLTD",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-04-2024",
+    "particulars": "UPI/P2M/412017217819/DOMINOSPIZZA/food/HDFCBANKLTD",
+    "amount": "1652.70",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-04-2024",
+    "particulars": "UPI/P2M/412079317913/DOMINOSPIZZA/food/HDFCBANKLTD",
+    "amount": "190.70",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-04-2024",
+    "particulars": "UPI/P2A/412033416845/POOJABHANDAGE/shoppi/KotakMahindraBank",
+    "amount": "3900.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448704219865/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "140.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448708943908/Kiranakumar/grocer/YesBankLtd",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/412163746168/AmoghPetroleum/petrol/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448756847390/V2Retail/UPI/YesBankLtd",
+    "amount": "2314.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448718052605/NAUGHTYKIDS/shoppi/YesBankLtd",
+    "amount": "1100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448714953139/MOHAMMEDHANIFGADAG/food/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/448779150961/IndianRailwaysCater/train/AxisBankLtd.",
+    "amount": "1834.05",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-04-2024",
+    "particulars": "UPI/P2M/412119270779/HUBBALLIWINES/food/YesBankLtd",
+    "amount": "1560.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2M/412227095410/NAGARATHNASHETTY/food/YesBankLtd",
+    "amount": "410.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2M/412235994638/UDAYPUSAKARKERAR/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2M/448834302857/PRASANNAGCHINDI/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2M/448893007163/PRASANNAGCHINDI/food/YesBankLtd",
+    "amount": "12.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2A/412202401932/KETANKUMARVISHARAMBH/jaimin/StateBankOfIndia",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-05-2024",
+    "particulars": "UPI/P2M/412273720005/PRASANNAGCHINDI/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-05-2024",
+    "particulars": "UPI/P2A/412309482437/JAYESHKUM/BankofB/UPI/",
+    "amount": "17500.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "02-05-2024",
+    "particulars": "UPI/P2M/448981971962/RAJABAKSHIHNADAF/food/YesBankLtd",
+    "amount": "70.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-05-2024",
+    "particulars": "UPI/P2M/412490283544/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "95.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-05-2024",
+    "particulars": "UPI/P2M/449287700549/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-05-2024",
+    "particulars": "UPI/P2M/449212707199/KHAWAJAKOPPAVALI/food/YesBankLtd",
+    "amount": "260.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-05-2024",
+    "particulars": "UPI/P2M/449229306190/CAPITALFLOAT/Youar/AmazonRBL",
+    "amount": "3332.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-05-2024",
+    "particulars": "UPI/P2M/449287441932/SRIMAHALASANARAYANI/food/YesBankLtd",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-05-2024",
+    "particulars": "UPI/P2A/412786443544/GAGANPUJARI/food/KotakMahindraBank",
+    "amount": "190.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-05-2024",
+    "particulars": "UPI/P2M/449360085763/LAXMIGUGI/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-05-2024",
+    "particulars": "UPI/P2M/412762490141/MEDICINEZONE/medici/YesBankLtd",
+    "amount": "24.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-05-2024",
+    "particulars": "UPI/P2M/449345895177/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-05-2024",
+    "particulars": "UPI/P2M/412797992443/RAMESHSURAJLOHAR/food/YesBankLtd",
+    "amount": "140.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-05-2024",
+    "particulars": "UPI/P2M/412744896968/Kiranakumar/food/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-05-2024",
+    "particulars": "UPI/P2M/449473834822/JioPrepaidRecharges/405078/YesBankLtd",
+    "amount": "398.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-05-2024",
+    "particulars": "IMPS/P2A/412915751975/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "20833.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "08-05-2024",
+    "particulars": "UPI/P2M/449521286941/JioPrepaidRecharges/405088/YesBankLtd",
+    "amount": "29.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-05-2024",
+    "particulars": "UPI/P2M/412940400492/MEDICINEZONE/medici/YesBankLtd",
+    "amount": "106.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-05-2024",
+    "particulars": "UPI/P2M/412976402830/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2M/449733566829/FashionZone/faircu/AxisBankLtd.",
+    "amount": "150.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2M/449735490349/SourabhPetroleums/petrol/YesBankLtd",
+    "amount": "80.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2M/449720702219/MukharatBepari/shoppi/YesBankLtd",
+    "amount": "170.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2M/413149607479/MukharatBepari/shoppi/YesBankLtd",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2M/413147007544/KARNISAMOSACENTER/food/AmazonPrivateLimit",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-05-2024",
+    "particulars": "UPI/P2A/413157607701/GURUSIDDAPPARUDRAPP/food/CanaraBank",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-05-2024",
+    "particulars": "UPI/P2M/413357377757/HOTELSHREEGANESH/food/YesBankLtd",
+    "amount": "300.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "12-05-2024",
+    "particulars": "UPI/P2M/413354983029/SourabhPetroleums/petrol/YesBankLtd",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450064819763/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "45.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450021117525/SogalKiraniStores/food/AxisBankLtd.",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450002726220/SourabhPetroleums/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/413431429876/JioPrepaidRecharges/405138/YesBankLtd",
+    "amount": "91.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450042031381/MAKTUMBIJAFARSHRIFN/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450047635693/LAKEVIEWPUREVEG/foodl/YesBankLtd",
+    "amount": "690.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "13-05-2024",
+    "particulars": "UPI/P2M/450024140937/ALIADILSHASMUDHOL/food/IndianOverseasBank",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-05-2024",
+    "particulars": "UPI/P2M/413576671644/PARASAPPAMUDAKAPPAM/petrol/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-05-2024",
+    "particulars": "UPI/P2M/413521076793/ANNADANIPETROLEUMS/petrol/YesBankLtd",
+    "amount": "260.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-05-2024",
+    "particulars": "UPI/P2M/450160376280/SHANKRALINGAPPA/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "14-05-2024",
+    "particulars": "UPI/P2M/413511992884/IndianRailwaysCater/irctc/AxisBankLtd.",
+    "amount": "2518.60",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "UPI/P2M/413619620377/SourabhPetroleums/petrol/YesBankLtd",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "ATM-CASH/SBIMRUTYUNJAYNAG/DHARWAD/150524",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "ATM-CASH/SBIMRUTYUNJAYNAG/DHARWAD/150524",
+    "amount": "2000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "UPI/P2M/450230951070/PICKUPFRESHPRIVATE/food/HDFCBANKLTD",
+    "amount": "30.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "UPI/P2M/450266253521/AVNSAIGALENTERPRISE/UPI/HDFCBANKLTD",
+    "amount": "5889.02",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "15-05-2024",
+    "particulars": "UPI/P2M/413602751777/K240KFCHUBLIHSBAN/food/HDFCBANKLTD",
+    "amount": "509.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-05-2024",
+    "particulars": "UPI/P2M/413779098584/Kiranakumar/food/YesBankLtd",
+    "amount": "84.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-05-2024",
+    "particulars": "UPI/P2M/450434822274/PRAVEENISHWARNAIK/food/YesBankLtd",
+    "amount": "40.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-05-2024",
+    "particulars": "UPI/P2M/450471050688/RAJABAKSHIHNADAF/food/YesBankLtd",
+    "amount": "84.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "17-05-2024",
+    "particulars": "UPI/P2M/413856859171/JioPrepaidRecharges/405178/YesBankLtd",
+    "amount": "19.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-05-2024",
+    "particulars": "UPI/P2A/413907376751/PhonePe/YesBank/R02Phon/",
+    "amount": "2430.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "18-05-2024",
+    "particulars": "UPI/P2M/413935670822/Ramachandra/Payto/FederalBank",
+    "amount": "75.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414009737840/BASAVARAJ/Payto/FederalBank",
+    "amount": "60.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414037239601/UDAYPUSAKARKERAR/food/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414002337602/UDAYPUSAKARKERAR/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414080838432/NAGARAJSHETTY/food/YesBankLtd",
+    "amount": "484.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414078147522/PRAMODCANKAD/Payto/FederalBank",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "19-05-2024",
+    "particulars": "UPI/P2M/414011061987/GoogleIndiaDigital/UPI/ICICIBank",
+    "amount": "1676.40",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-05-2024",
+    "particulars": "UPI/P2A/450706766411/IRCTC_APP/YesBank/express/",
+    "amount": "1865.36",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "20-05-2024",
+    "particulars": "UPI/P2M/414143110782/NAMITATEWARY/food/YesBankLtd",
+    "amount": "380.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "20-05-2024",
+    "particulars": "UPI/P2M/450714207733/MARUTIFOODS/food/YesBankLtd",
+    "amount": "140.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "UPI/P2M/450855915027/PANKAJBHAIRAMESHBHAI/Payto/FederalBank",
+    "amount": "52.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "UPI/P2M/414232532923/GoogleIndiaDigital/UPI/AxisBankLtd.",
+    "amount": "1499.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "UPI/P2M/414266731556/GoogleIndiaDigital/UPI/AxisBankLtd.",
+    "amount": "156.90",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "UPI/P2A/450855035496/THAKORRAHULCHANDUJI/rechar/BankofIndia",
+    "amount": "3004.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "ATM-CASH/YAGNIKCHEMBERSMA/MANSA/210524",
+    "amount": "1000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-05-2024",
+    "particulars": "UPI/P2M/414229145808/Mehulkumarmodi/grocer/YesBankLtd",
+    "amount": "85.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-05-2024",
+    "particulars": "UPI/P2M/414397768604/ARBUDA1/petrol/YesBankLtd",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-05-2024",
+    "particulars": "UPI/P2M/450981299228/BansidharDairyParlo/food/AxisBankLtd.",
+    "amount": "365.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-05-2024",
+    "particulars": "UPI/P2M/450994814881/KHELANKANTIBHAITHES/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-05-2024",
+    "particulars": "UPI/P2M/414303712856/KHELANKANTIBHAITHES/food/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-05-2024",
+    "particulars": "UPI/P2A/414422423286/HIMANSHUPATEL/Jaimin/StateBankOfIndia",
+    "amount": "400.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-05-2024",
+    "particulars": "UPI/P2M/451087532081/DHARTITVFREEZPLACE/ACEle/AxisBankLtd.",
+    "amount": "40700.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-05-2024",
+    "particulars": "UPI/P2M/414450047253/NarendrakumarModi/food/YesBankLtd",
+    "amount": "21.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-05-2024",
+    "particulars": "UPI/P2M/414497745784/JANIMAYURBHASKARBHA/food/YesBankLtd",
+    "amount": "33.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-05-2024",
+    "particulars": "UPI/P2M/414559294038/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "33.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-05-2024",
+    "particulars": "UPI/P2M/414540290474/ManpasandGharwakhri/grocer/AxisBankLtd.",
+    "amount": "50.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-05-2024",
+    "particulars": "UPI/P2M/414545587589/One97Communications/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-05-2024",
+    "particulars": "UPI/P2A/414564911738/HARSHNARAYANBHAIPRA/cash/BankofBaroda",
+    "amount": "1200.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-05-2024",
+    "particulars": "UPI/P2A/451221244192/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "52.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-05-2024",
+    "particulars": "UPI/P2M/451254340393/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "164.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-05-2024",
+    "particulars": "UPI/P2M/414609249723/SHREEPATELDUGDHALAY/food/YesBankLtd",
+    "amount": "15.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-05-2024",
+    "particulars": "UPI/P2M/451429522015/HARDIKRAMESHBHAIPAT/food/YesBankLtd",
+    "amount": "21.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-05-2024",
+    "particulars": "UPI/P2M/451473840128/MrMAHIPATSINHCHAN/milk/YesBankLtd",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-05-2024",
+    "particulars": "UPI/P2A/451429345145/ZALAJAYPALSINH/cash/StateBankOfIndia",
+    "amount": "2600.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-05-2024",
+    "particulars": "UPI/P2A/414901985101/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "32.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "28-05-2024",
+    "particulars": "UPI/P2A/414928493981/PATELVIJAYKUMARBALD/milk/UnionBankofIndia",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-05-2024",
+    "particulars": "UPI/P2A/415013027715/JAIMINBH/BankofI/UPI/",
+    "amount": "220.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "29-05-2024",
+    "particulars": "UPI/P2M/451643550307/Gandhidairyparlour/food/YesBankLtd",
+    "amount": "25.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-05-2024",
+    "particulars": "UPI/P2M/415122363156/TRUPTIPARLOUR/food/YesBankLtd",
+    "amount": "90.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-05-2024",
+    "particulars": "UPI/P2A/415196872545/ADINFOSERVICE/akash/IDFCFIRSTBank",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "31-05-2024",
+    "particulars": "UPI/P2M/451899992582/HARDIKRAMESHBHAIPAT/food/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-06-2024",
+    "particulars": "UPI/P2A/451968963160/AKASHASHOKBHAIADHIK/cash/BankofBaroda",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-06-2024",
+    "particulars": "UPI/P2A/451928180863/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "01-06-2024",
+    "particulars": "UPI/P2A/415304699861/CHAUHANPRIYABENMGF/food/UnionBankofIndia",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2M/415424234586/OMMEDICALANDGENERA/shoppi/AxisBankLtd.",
+    "amount": "154.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2M/415469538237/MODIREKHABENDEVILAL/food/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2A/415400443273/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "74.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2M/415493943867/SHREEPATELDUGDHALAY/food/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2M/415469148116/HARDIKRAMESHBHAIPAT/food/YesBankLtd",
+    "amount": "42.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "02-06-2024",
+    "particulars": "UPI/P2M/415420747779/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-06-2024",
+    "particulars": "UPI/P2A/452116157708/SATHWARAHARSHKUMARB/homew/AxisBankLtd.",
+    "amount": "2000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-06-2024",
+    "particulars": "UPI/P2M/415566684561/ARBUDA1/Petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-06-2024",
+    "particulars": "UPI/P2M/415558096402/IZUMARETAIL/grocer/YesBankLtd",
+    "amount": "961.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "03-06-2024",
+    "particulars": "UPI/P2M/452129989721/HARDIKRAMESHBHAIPAT/milk/YesBankLtd",
+    "amount": "129.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2M/452218207000/UPSTOXSECURITIESPVT/UPI/HDFCBANKLTD",
+    "amount": "50000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2M/415696521092/ShambhuPanParlour/food/YesBankLtd",
+    "amount": "69.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2A/415658106506/JAYESHKUM/BankofB/UPI/",
+    "amount": "18100.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2M/415642837651/SHREEPATELDUGDHALAY/milk/YesBankLtd",
+    "amount": "404.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2M/452245531559/One97Communications/milk/YesBankLtd",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "04-06-2024",
+    "particulars": "UPI/P2M/452229647356/JioPrepaidRecharges/rechar/YesBankLtd",
+    "amount": "179.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-06-2024",
+    "particulars": "UPI/P2M/452385650401/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-06-2024",
+    "particulars": "UPI/P2A/452386487231/AMANKUMARPAL/milk/StateBankOfIndia",
+    "amount": "119.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "05-06-2024",
+    "particulars": "UPI/P2A/415709896685/AKASHASHOKBHAIADHIK/cash/BankofBaroda",
+    "amount": "10000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-06-2024",
+    "particulars": "UPI/P2M/452490099255/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-06-2024",
+    "particulars": "UPI/P2A/415868739487/PatelPankajbhaiRame/milk/IDFCFIRSTBank",
+    "amount": "186.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "06-06-2024",
+    "particulars": "UPI/P2M/415804936391/YesBankPartnerSell/milk/YesBank_Yespay",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-06-2024",
+    "particulars": "UPI/P2M/415965147475/ARBUDA2/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-06-2024",
+    "particulars": "UPI/P2A/415958040617/AKASHASH/BankofB/UPI/",
+    "amount": "9500.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "07-06-2024",
+    "particulars": "UPI/P2M/452567889098/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "07-06-2024",
+    "particulars": "UPI/P2M/452574792317/One97Communications/milk/YesBankLtd",
+    "amount": "66.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2A/416013417538/AKASHASH/BankofB/UPI/",
+    "amount": "500.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2M/416063845819/MrMAHIPATSINHCHAN/milk/YesBankLtd",
+    "amount": "66.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2M/452647644886/MrALPESHKUMARJAYAN/milk/AxisBankLtd.",
+    "amount": "20.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2M/416069745844/One97Communications/milk/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2A/416072246634/SANIYAMEHULBHAIRAVA/cash/UnionBankofIndia",
+    "amount": "2000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2A/416045647038/SANIYAMEHULBHAIRAVA/cash/UnionBankofIndia",
+    "amount": "1000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "08-06-2024",
+    "particulars": "UPI/P2A/416031250407/HARSHNARAYANBHAIPRA/cash/BankofBaroda",
+    "amount": "100.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "10-06-2024",
+    "particulars": "IMPS/P2A/416220990364/CODEFLIX/ICICIBAN/Salary/9199988727169229001",
+    "amount": "3225.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "16-06-2024",
+    "particulars": "ATM-CASH/MANSAYAGINICHAMBE/MANSA/160624",
+    "amount": "10000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "16-06-2024",
+    "particulars": "ATM-CASH/MANSAYAGINICHAMBE/MANSA/160624",
+    "amount": "5000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "18-06-2024",
+    "particulars": "NEFT/N170243099963565/UPSTOXSECURITIESPVTLTDDS/HDFCBANK/VIJAYKUMARPATEL",
+    "amount": "50000.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "19-06-2024",
+    "particulars": "ATM-CASH/+CITYCENTREII/AHMADABAD/190624",
+    "amount": "2000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "21-06-2024",
+    "particulars": "UPI/P2M/453976669818/AMAZONSELLERSERVICE/shoppi/HDFCBANKLTD",
+    "amount": "1699.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-06-2024",
+    "particulars": "ATM-CASH-AXIS/DPRH316501/3087/220624/MANSA",
+    "amount": "2000.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-06-2024",
+    "particulars": "UPI/P2M/454078122127/IndianOilCorporation/cookin/HDFCBANKLTD",
+    "amount": "810.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "22-06-2024",
+    "particulars": "UPI/P2M/417466615158/IndianOilCorporation/cookin/HDFCBANKLTD",
+    "amount": "810.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "23-06-2024",
+    "particulars": "UPI/P2A/417505799215/JAIMINBH/BankofI/UPI/",
+    "amount": "80.00",
+    "transaction_type": "C"
+  },
+  {
+    "transaction_date": "24-06-2024",
+    "particulars": "UPI/P2M/417605037036/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "76.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "24-06-2024",
+    "particulars": "UPI/P2M/454228952649/JIGNESHKUMARSATAJI/other/YesBankLtd",
+    "amount": "12.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-06-2024",
+    "particulars": "UPI/P2M/417764381640/AmazonIndia/Youar/AmazonRBL",
+    "amount": "2498.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "25-06-2024",
+    "particulars": "UPI/P2M/454395280044/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "77.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-06-2024",
+    "particulars": "UPI/P2M/417859197762/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-06-2024",
+    "particulars": "UPI/P2M/454458337534/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "77.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "26-06-2024",
+    "particulars": "UPI/P2M/417886130346/MrALPESHKUMARJAYAN/milk/AxisBankLtd.",
+    "amount": "33.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-06-2024",
+    "particulars": "UPI/P2M/417939949536/ARBUDA1/petrol/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-06-2024",
+    "particulars": "UPI/P2M/417967367352/DurgaProvisionStore/milk/AxisBankLtd.",
+    "amount": "77.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "27-06-2024",
+    "particulars": "UPI/P2M/454560890847/IndianOilPetrolPum/petrol/YesBankLtd",
+    "amount": "220.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/454738946286/JioPrepaidRecharges/rechar/YesBankLtd",
+    "amount": "239.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/418164845286/PRAVINSINHJILUJISOL/food/YesBankLtd",
+    "amount": "110.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/454711745549/NaiyaPatroliyam/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/418187449636/PRAVINSINHJILUJISOL/food/YesBankLtd",
+    "amount": "64.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/418142473520/One97Communications/food/YesBankLtd",
+    "amount": "205.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/418192284057/MrMAHIPATSINHCHAN/milk/YesBankLtd",
+    "amount": "66.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "29-06-2024",
+    "particulars": "UPI/P2M/454707982262/Gandhidairyparlour/milk/YesBankLtd",
+    "amount": "10.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-06-2024",
+    "particulars": "UPI/P2M/454880797322/SHAHBALMUKUNDSANKAL/grocer/YesBankLtd",
+    "amount": "120.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-06-2024",
+    "particulars": "UPI/P2M/454885004009/MrPatelPankajbhai/Payto/FederalBank",
+    "amount": "23.00",
+    "transaction_type": "D"
+  },
+  {
+    "transaction_date": "30-06-2024",
+    "particulars": "UPI/P2M/418270207464/ARBUDA1/petrol/YesBankLtd",
+    "amount": "210.00",
+    "transaction_type": "D"
+  }
+]
