@@ -92,8 +92,10 @@ router.post("/upload", async function (req, res, next) {
         }
       }
     );
-
-    res.send(`File Uploaded: ${req.file.originalname}`);
+    res.json({
+      message: `File Uploaded: ${req.file.originalname}`,
+      data: excelData, // Send the processed Excel data as part of the response
+    });
   });
 });
 
