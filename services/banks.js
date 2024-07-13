@@ -48,6 +48,7 @@ function validateCreate(data) {
 }
 
 async function create(data) {
+  console.error("Error writing JSON file:", data);
   validateCreate(data);
   const result = await db.query(
     "INSERT INTO banks(holder_name,bank_name,mobile,customer_id,account_no) VALUES ($1,$2,$3,$4,$5) RETURNING *",
@@ -68,7 +69,8 @@ async function create(data) {
 }
 
 async function checkBank(data) {
-  const { Name, Customer, IFSC, Mobile } = data;
+  const { bankData } = data;
+  const { Name, Customer, IFSC, Mobile } = bankData;
   const name = Name.split(":-")[1].trim();
   const customerID = Customer.split(":-")[1].trim();
   const ifscCode = IFSC.split(":-")[1].trim();
@@ -80,11 +82,10 @@ async function checkBank(data) {
     WHERE  account_no = $3
   `;
   const values = [name, customerID, ifscCode, mobileNo];
+  
   try {
     const { rows } = await db.query(query, values);
-    return res
-      .status(500)
-      .json({ dbmessage: "Error executing query ", data: rows });
+
     if (rows.length > 0) {
       // Entry exists, return its ID
       return rows[0].id;
