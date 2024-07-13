@@ -69,7 +69,6 @@ async function create(data) {
 }
 
 async function checkBank(data) {
-  return data;
   const { bankData } = data;
   const { Name, Customer, IFSC, Mobile } = bankData;
   const name = Name.split(":-")[1].trim();
@@ -83,7 +82,7 @@ async function checkBank(data) {
     WHERE  account_no = $3
   `;
   const values = [name, customerID, ifscCode, mobileNo];
-
+  return values;
   try {
     const { rows } = await db.query(query, values);
     return rows;
