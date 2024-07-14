@@ -68,7 +68,7 @@ async function create(data) {
 
   return { message };
 }
-const bulkCreate = async (statements, bankId) => {
+async function bulkCreate(statements, bankId) {
   try {
     const query = `
       INSERT INTO bankstatements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
@@ -109,7 +109,7 @@ const bulkCreate = async (statements, bankId) => {
   } finally {
     // client.release();
   }
-};
+}
 module.exports = {
   getStatement,
   create,
