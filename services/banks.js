@@ -69,28 +69,16 @@ async function create(data) {
 }
 
 async function checkBank(data) {
-  const bankData = data.bankData;
-
   if (!bankData) {
     throw new Error("bankData is undefined or null");
   }
 
-  const name = bankData
-    .find((item) => item.startsWith("Name"))
-    .split(":-")[1]
-    .trim();
-  const customerID = bankData
-    .find((item) => item.startsWith("Customer"))
-    .split(":-")[1]
-    .trim();
-  const ifscCode = bankData
-    .find((item) => item.startsWith("IFSC"))
-    .split(":-")[1]
-    .trim();
-  const mobileNo = bankData
-    .find((item) => item.startsWith("Mobile"))
-    .split(":-")[1]
-    .trim();
+  const { bankData } = data;
+  const { Name, Customer, IFSC, Mobile } = bankData;
+  const name = Name.split(":-")[1].trim();
+  const customerID = Customer.split(":-")[1].trim();
+  const ifscCode = IFSC.split(":-")[1].trim();
+  const mobileNo = Mobile.split(":-")[1].trim();
 
   const values = [name, customerID, ifscCode, mobileNo];
 
