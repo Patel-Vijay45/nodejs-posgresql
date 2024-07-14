@@ -74,7 +74,7 @@ async function bulkCreate(statements, bankId) {
   const query = `
       INSERT INTO bankstatements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
       VALUES
-      ${transactions
+      ${statements
         .map(
           (_, i) =>
             `($${i * 6 + 1}, $${i * 6 + 2}, $${i * 6 + 3}, $${i * 6 + 4}, $${
@@ -84,8 +84,8 @@ async function bulkCreate(statements, bankId) {
         .join(", ")}
       RETURNING id
     `;
-  return query;
-  const values = transactions.flatMap(
+  // return query;
+  const values = statements.flatMap(
     ({ transaction_date, particulars, amount, transaction_type, balance }) => [
       transaction_date,
       particulars,
