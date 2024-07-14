@@ -88,7 +88,7 @@ async function checkBank(data) {
       "SELECT id FROM bank WHERE  account_no = $ifscCode",
       [ifscCode]
     );
-    return rows;
+    // return rows;
     if (rows.length > 0) {
       // Entry exists, return its ID
       return rows[0].id;
@@ -103,11 +103,7 @@ async function checkBank(data) {
       return insertResult.rows[0].id;
     }
   } catch (err) {
-    return res
-      .status(500)
-      .json({ message: "Error executing query " + err.message });
-    // console.error("Error executing query:", err.message);
-    throw err;
+    return "Error executing query " + err.message;
   }
 }
 module.exports = {
