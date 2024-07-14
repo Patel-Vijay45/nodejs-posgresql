@@ -70,8 +70,8 @@ async function create(data) {
 }
 async function bulkCreate(statements, bankId) {
   // return statements;
-  // try {
-  const query = `
+  try {
+    const query = `
       INSERT INTO bankstatements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
       VALUES
       ${statements
@@ -84,26 +84,30 @@ async function bulkCreate(statements, bankId) {
         .join(", ")}
       RETURNING id
     `;
-  // return query;
-  const values = statements.flatMap(
-    ({ transaction_date, particulars, amount, transaction_type, balance }) => [
-      transaction_date,
-      particulars,
-      amount,
-      transaction_type,
-      balance,
-      bankId,
-    ]
-  );
+    // return query;
+    const values = statements.flatMap(
+      ({
+        transaction_date,
+        particulars,
+        amount,
+        transaction_type,
+        balance,
+      }) => [
+        transaction_date,
+        particulars,
+        amount,
+        transaction_type,
+        balance,
+        bankId,
+      ]
+    );
 
-  const result = await db.query(query, values);
-  return result.rows;
-  // console.log(result.rows); // Contains the inserted row IDs
-  // } catch (err) {
-  //   return "Error inserting transactions:", err;
-  // } finally {
-  // client.release();
-  // }
+    const result = await db.query(query, values);
+    return result;
+  } catch (err) {
+    return "Error inserting transactions:", err;
+  } finally {
+  }
 }
 module.exports = {
   getStatement,
