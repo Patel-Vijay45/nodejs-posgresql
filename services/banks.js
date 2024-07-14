@@ -69,44 +69,59 @@ async function create(data) {
 }
 
 async function checkBank(data) {
-  const { bankData } = data;
-  const { Name, Customer, IFSC, Mobile } = bankData;
-  const name = Name.split(":-")[1].trim();
-  const customerID = Customer.split(":-")[1].trim();
-  const ifscCode = IFSC.split(":-")[1].trim();
-  const mobileNo = Mobile.split(":-")[1].trim();
+  const bankData = data.bankData;
+
+  if (!bankData) {
+    throw new Error("bankData is undefined or null");
+  }
+
+  const name = bankData
+    .find((item) => item.startsWith("Name"))
+    .split(":-")[1]
+    .trim();
+  const customerID = bankData
+    .find((item) => item.startsWith("Customer"))
+    .split(":-")[1]
+    .trim();
+  const ifscCode = bankData
+    .find((item) => item.startsWith("IFSC"))
+    .split(":-")[1]
+    .trim();
+  const mobileNo = bankData
+    .find((item) => item.startsWith("Mobile"))
+    .split(":-")[1]
+    .trim();
+
+  const values = [name, customerID, ifscCode, mobileNo];
 
   // Check if the entry exists in the database
-  const query = `
-    SELECT id FROM bank
-    WHERE  account_no = $3
+  const checkQuery = `
+    SELECT id FROM banks WHERE account_no = $1::text
   `;
-  const values = [name, customerID, ifscCode, mobileNo];
-  // return values;
+  const insertQuery = `
+    INSERT INTO banks (holder_name, customer_id, account_no, mobile, bank_name)
+    VALUES ($1::text, $2::text, $3::text, $4::text, 'axis')
+    RETURNING id
+  `;
+
   try {
-    const rows = await db.query(
-      "SELECT id FROM banks WHERE  account_no = $3::text",
-      values
-    );
-    // return rows;
+    const { rows } = await db.query(checkQuery, [ifscCode]);
+
     if (rows.length > 0) {
       // Entry exists, return its ID
       return rows[0].id;
     } else {
       // Entry doesn't exist, insert it and return the new ID
-      const insertQuery = `
-        INSERT INTO banks (holder_name, customer_id, account_no, mobile,bank_name)
-        VALUES ($1::text, $2::text, $3::text, $4::text,'axis')
-        RETURNING id
-      `;
       const insertResult = await db.query(insertQuery, values);
       return insertResult.rows[0].id;
     }
   } catch (err) {
     return err;
-    return "Error executing query " + err.message;
+    console.error("Error executing query:", err.message);
+    throw new Error("Error executing query: " + err.message);
   }
 }
+
 module.exports = {
   getBanks,
   create,
