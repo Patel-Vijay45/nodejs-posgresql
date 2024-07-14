@@ -91,22 +91,22 @@ async function checkBank(data) {
     RETURNING id
   `;
 
-  try {
-    const { rows } = await db.query(checkQuery, [ifscCode]);
+  // try {
+  const { rows } = await db.query(checkQuery, [ifscCode]);
 
-    if (rows.length > 0) {
-      // Entry exists, return its ID
-      return rows[0].id;
-    } else {
-      // Entry doesn't exist, insert it and return the new ID
-      const insertResult = await db.query(insertQuery, values);
-      return insertResult.rows[0].id;
-    }
-  } catch (err) {
-    return err;
-    console.error("Error executing query:", err.message);
-    throw new Error("Error executing query: " + err.message);
+  if (rows.length > 0) {
+    // Entry exists, return its ID
+    return rows[0].id;
+  } else {
+    // Entry doesn't exist, insert it and return the new ID
+    const insertResult = await db.query(insertQuery, values);
+    return insertResult.rows[0].id;
   }
+  // } catch (err) {
+  //   return err;
+  //   console.error("Error executing query:", err.message);
+  //   throw new Error("Error executing query: " + err.message);
+  // }
 }
 
 module.exports = {
