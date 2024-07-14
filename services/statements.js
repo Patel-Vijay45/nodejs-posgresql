@@ -68,8 +68,50 @@ async function create(data) {
 
   return { message };
 }
+const bulkCreate = async (statements, bankId) => {
+  try {
+    const query = `
+      INSERT INTO statements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
+      VALUES
+      ${transactions
+        .map(
+          (_, i) =>
+            `($${i * 6 + 1}, $${i * 6 + 2}, $${i * 6 + 3}, $${i * 6 + 4}, $${
+              i * 6 + 5
+            }, $${i * 6 + 6})`
+        )
+        .join(", ")}
+      RETURNING id
+    `;
 
+    const values = transactions.flatMap(
+      ({
+        transaction_date,
+        particulars,
+        amount,
+        transaction_type,
+        balance,
+      }) => [
+        transaction_date,
+        particulars,
+        amount,
+        transaction_type,
+        balance,
+        bankId,
+      ]
+    );
+
+    const result = await db.query(query, values);
+    return result.rows;
+    // console.log(result.rows); // Contains the inserted row IDs
+  } catch (err) {
+    return ("Error inserting transactions:", err);
+  } finally {
+    // client.release();
+  }
+};
 module.exports = {
   getStatement,
   create,
+  bulkCreate
 };

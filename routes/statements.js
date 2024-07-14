@@ -82,7 +82,8 @@ router.post("/upload", async function (req, res, next) {
       });
     } catch (error) {}
     const newbank = await checkBank({ bankData });
-    return res.status(500).json({ sdbmessage: newbank });
+    excelData = statements.bulkCreate(excelData, newbank);
+    return res.status(500).json({ sdbmessage: excelData });
 
     // Process bank data and other operations if needed
 
