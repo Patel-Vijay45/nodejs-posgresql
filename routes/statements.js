@@ -58,7 +58,7 @@ router.post("/upload", async function (req, res, next) {
               }
             } else {
               if (data && columnName == "B") {
-                rowData["transaction_date"] = data;
+                rowData["transaction_date"] = convertDate(data);
               } else if (data && columnName == "D") {
                 rowData["particulars"] = data;
               } else if (data && columnName == "E") {
@@ -105,6 +105,10 @@ router.post("/upload", async function (req, res, next) {
     });
   });
 });
+function convertDate(dateStr) {
+  const [day, month, year] = dateStr.split("-");
+  return `${year}-${month}-${day}`; // Converts DD-MM-YYYY to YYYY-MM-DD
+}
 
 function containsKeywords(str) {
   const keywords = ["Name", "Mobile", "Customer", "IFSC"];
