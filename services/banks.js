@@ -92,7 +92,7 @@ async function checkBank(data) {
   `;
 
   // try {
-  const { rows } = await db.query(checkQuery, [ifscCode]);
+  const rows = await db.query(checkQuery, [ifscCode]);
 
   if (rows.length > 0) {
     // Entry exists, return its ID
