@@ -100,7 +100,7 @@ async function checkBank(data) {
   } else {
     // Entry doesn't exist, insert it and return the new ID
     const insertResult = await db.query(insertQuery, values);
-    return insertResult.rows[0].id;
+    return insertResult;
   }
   // } catch (err) {
   //   return err;
