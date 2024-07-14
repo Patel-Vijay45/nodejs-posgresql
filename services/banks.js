@@ -85,8 +85,8 @@ async function checkBank(data) {
   // return values;
   try {
     const rows = await db.query(
-      "SELECT id FROM bank WHERE  account_no = $ifscCode",
-      [ifscCode]
+      "SELECT id FROM bank WHERE  account_no = $3",
+      values
     );
     // return rows;
     if (rows.length > 0) {
@@ -103,6 +103,7 @@ async function checkBank(data) {
       return insertResult.rows[0].id;
     }
   } catch (err) {
+    return err;
     return "Error executing query " + err.message;
   }
 }
