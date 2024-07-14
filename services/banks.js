@@ -69,11 +69,10 @@ async function create(data) {
 }
 
 async function checkBank(data) {
+  const { bankData } = data;
   if (!bankData) {
     throw new Error("bankData is undefined or null");
   }
-
-  const { bankData } = data;
   const { Name, Customer, IFSC, Mobile } = bankData;
   const name = Name.split(":-")[1].trim();
   const customerID = Customer.split(":-")[1].trim();
