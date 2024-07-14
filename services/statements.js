@@ -71,7 +71,7 @@ async function create(data) {
 const bulkCreate = async (statements, bankId) => {
   try {
     const query = `
-      INSERT INTO statements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
+      INSERT INTO bankstatements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
       VALUES
       ${transactions
         .map(
@@ -83,7 +83,7 @@ const bulkCreate = async (statements, bankId) => {
         .join(", ")}
       RETURNING id
     `;
-
+    return query;
     const values = transactions.flatMap(
       ({
         transaction_date,
@@ -105,7 +105,7 @@ const bulkCreate = async (statements, bankId) => {
     return result.rows;
     // console.log(result.rows); // Contains the inserted row IDs
   } catch (err) {
-    return ("Error inserting transactions:", err);
+    return "Error inserting transactions:", err;
   } finally {
     // client.release();
   }
@@ -113,5 +113,5 @@ const bulkCreate = async (statements, bankId) => {
 module.exports = {
   getStatement,
   create,
-  bulkCreate
+  bulkCreate,
 };
