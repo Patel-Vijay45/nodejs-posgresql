@@ -99,7 +99,7 @@ async function checkBank(data) {
         VALUES ($1, $2, $3, $4,'axis')
         RETURNING id
       `;
-      const insertResult = await pool.query(insertQuery, values);
+      const insertResult = await db.query(insertQuery, values);
       return insertResult.rows[0].id;
     }
   } catch (err) {
