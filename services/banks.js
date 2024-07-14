@@ -85,7 +85,7 @@ async function checkBank(data) {
   // return values;
   try {
     const rows = await db.query(
-      "SELECT id FROM bank WHERE  account_no = $3",
+      "SELECT id FROM banks WHERE  account_no = $3",
       values
     );
     // return rows;
@@ -95,7 +95,7 @@ async function checkBank(data) {
     } else {
       // Entry doesn't exist, insert it and return the new ID
       const insertQuery = `
-        INSERT INTO bank (holder_name, customer_id, account_no, mobile,bank_name)
+        INSERT INTO banks (holder_name, customer_id, account_no, mobile,bank_name)
         VALUES ($1, $2, $3, $4,'axis')
         RETURNING id
       `;
