@@ -69,7 +69,7 @@ async function create(data) {
   return { message };
 }
 async function bulkCreate(statements, bankId) {
-  return statements;
+  // return statements;
   // try {
   const query = `
       INSERT INTO bankstatements (transaction_date, particulars, amount, transaction_type, balance, bank_id)
